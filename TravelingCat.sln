@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI.EditorTests"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro.Tests", "Unity.TextMeshPro.Tests.csproj", "{bd1de950-171a-7195-129b-86c72c2f763a}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{6e216aef-f332-c0b6-036a-3efb8cf9be04}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocCodeExamples", "DocCodeExamples.csproj", "{8a13801e-c919-92d3-4774-3973c25fe051}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverage.Editor.Compatibility", "Unity.TestTools.CodeCoverage.Editor.Compatibility.csproj", "{4934b374-4a26-146c-5749-1e4dd9e500bc}"
@@ -168,6 +170,8 @@ Global
 		{63cb3fbe-c74b-b2ef-b756-3bacb6528479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{bd1de950-171a-7195-129b-86c72c2f763a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{bd1de950-171a-7195-129b-86c72c2f763a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6e216aef-f332-c0b6-036a-3efb8cf9be04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6e216aef-f332-c0b6-036a-3efb8cf9be04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8a13801e-c919-92d3-4774-3973c25fe051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8a13801e-c919-92d3-4774-3973c25fe051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4934b374-4a26-146c-5749-1e4dd9e500bc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
